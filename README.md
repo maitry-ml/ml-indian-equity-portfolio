@@ -28,6 +28,7 @@ The objective was to integrate structured financial data, macroeconomic indicato
 - Source: MoneyControl  
 
 **Macroeconomic Indicators**  
+- Gold
 - USD/INR  
 - India 10Y Bond Yield  
 - Crude Oil  
