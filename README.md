@@ -1,5 +1,5 @@
 # Multi-Dimensional Return Forecasting & Portfolio Construction  
-### DA6701 – Data Science & AI in Finance (Final Project)
+### DA6701 – Data Science & AI in Finance (Assignment 2)
 
 ## Project Overview
 
